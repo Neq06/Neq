@@ -1,0 +1,20 @@
+{
+  "name": "neqq",
+  "version": "0.0.1",
+  "description": "Botkee",
+  "main": "neq.js",
+  "scripts": {
+    "test": "node neq.js"
+  },
+  "author": "neq",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "jimp": "^0.16.1",
+    "moment": "^2.29.1",
+    "request": "^2.88.2",
+    "wio.db": "^4.0.21"
+  }
+}
